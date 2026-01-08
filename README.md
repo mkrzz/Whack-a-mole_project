@@ -1,1 +1,22 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ylS1pp5b)
+# Whack-a-mole  
+
+#### University assignment  
+Create a version of 'Whack-a-mole' using point and click mouse mechanic with the SFML API.  
+This repository is a portfolio version of the original coursework, all features and content implemented by myself
+
+## Features  
+- Enemy spawn system
+- Point and click to destroy an enemy
+- Time gauge
+- Scoring system
+
+## Controls  
+- Mouse to move
+- Left click to destroy enemy
+
+## Assets  
+= Provided by the University  
+
+## Screenshots  
+![menu_screenshot](/Data/Screenshots/Menu.png)
+![game_screenshot](/Data/Screenshots/Game.png)
